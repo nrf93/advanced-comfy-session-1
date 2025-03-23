@@ -747,11 +747,7 @@
     },
     "63": {
         "inputs": {
-            "filename_prefix": "ComfyUI",
-            "images": [
-                "58",
-                0
-            ]
+            "filename_prefix": "ComfyUI"
         },
         "class_type": "SaveImage",
         "_meta": {
